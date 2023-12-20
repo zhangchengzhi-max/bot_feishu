@@ -1,0 +1,232 @@
+2023-12-14 13:11:21,029 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-14 13:11:21,033 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-14 13:11:28,192 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"‚≥ıÙ"}', 'create_time': '1702530687029', 'message_id': 'om_6fbad4d5e7b764036536261cf52aa567', 'message_type': 'text', 'update_time': '1702530687029'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-14 13:11:28,194 - _internal.py - line:187 - INFO - 127.0.0.1 - - [14/Dec/2023 13:11:28] "POST / HTTP/1.1" 200 -
+2023-12-14 13:11:30,658 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ‚≥ıÙ
+2023-12-14 13:12:03,963 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1702530721420', 'message_id': 'om_fa27735f5232beef89059df129c86a2f', 'message_type': 'text', 'update_time': '1702530721420'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-14 13:12:03,964 - _internal.py - line:187 - INFO - 127.0.0.1 - - [14/Dec/2023 13:12:03] "POST / HTTP/1.1" 200 -
+2023-12-14 13:12:04,715 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-14 13:12:26,792 - _internal.py - line:187 - INFO - 127.0.0.1 - - [14/Dec/2023 13:12:26] "POST / HTTP/1.1" 200 -
+2023-12-14 13:12:28,307 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ »®œﬁ…Í«Î
+2023-12-14 18:04:25,934 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_0b6daca61ad902a1e20e0d57f2054113', 'chat_type': 'group', 'content': '{"text":"√…π≈≥¯∑ø5∫≈∞¸º‰"}', 'create_time': '1702548264751', 'message_id': 'om_c9d657115afc24a9cbf818aa572b9f3a', 'message_type': 'text', 'update_time': '1702548264751'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-14 18:04:25,938 - _internal.py - line:187 - INFO - 127.0.0.1 - - [14/Dec/2023 18:04:25] "POST / HTTP/1.1" 200 -
+2023-12-14 18:04:26,391 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ √…π≈≥¯∑ø5∫≈∞¸º‰
+2023-12-15 10:38:13,053 - _internal.py - line:187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.248.50.43:3000
+2023-12-15 10:38:13,053 - _internal.py - line:187 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-15 10:38:13,054 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-15 10:38:13,546 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-15 10:38:13,556 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-15 10:40:08,106 - _internal.py - line:187 - INFO - 127.0.0.1 - - [15/Dec/2023 10:40:08] "POST / HTTP/1.1" 200 -
+2023-12-15 10:40:10,304 - _internal.py - line:187 - INFO - 127.0.0.1 - - [15/Dec/2023 10:40:10] "POST / HTTP/1.1" 200 -
+2023-12-15 10:40:11,561 - _internal.py - line:187 - INFO - 127.0.0.1 - - [15/Dec/2023 10:40:11] "POST / HTTP/1.1" 200 -
+2023-12-15 10:40:20,656 - _internal.py - line:187 - INFO - 127.0.0.1 - - [15/Dec/2023 10:40:20] "POST / HTTP/1.1" 200 -
+2023-12-15 10:40:48,224 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"ø¥∞Â"}', 'create_time': '1702608046428', 'message_id': 'om_60c0e215bd340fc88797fd836485f55f', 'message_type': 'text', 'update_time': '1702608046428'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-15 10:40:48,232 - _internal.py - line:187 - INFO - 127.0.0.1 - - [15/Dec/2023 10:40:48] "POST / HTTP/1.1" 200 -
+2023-12-15 10:40:50,756 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ø¥∞Â
+2023-12-15 10:40:59,762 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"÷ÿ√˚"}', 'create_time': '1702608058445', 'message_id': 'om_7c954cda2418eb620ca93da181e44d69', 'message_type': 'text', 'update_time': '1702608058445'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-15 10:40:59,763 - _internal.py - line:187 - INFO - 127.0.0.1 - - [15/Dec/2023 10:40:59] "POST / HTTP/1.1" 200 -
+2023-12-15 10:41:00,758 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ÷ÿ√˚
+2023-12-15 10:42:03,607 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\server.py', reloading
+2023-12-15 10:42:03,657 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-15 10:42:04,167 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-15 10:42:04,171 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-15 11:33:17,015 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_0b6daca61ad902a1e20e0d57f2054113', 'chat_type': 'group', 'content': '{"text":"@_all ¥Ûº“–Ë“™œÚÕ‚∑¢ÀÕŒƒº˛ ±£¨≤ª“™Õ®π˝œÚ»’ø˚°£…Ê√‹µƒ±ÿ–Î◊ﬂ∑¢∑≈œµÕ≥°£"}', 'create_time': '1702607278244', 'message_id': 'om_c743ece73ebd0927cd36ce8a079c27e8', 'message_type': 'text', 'update_time': '1702607278244'}, 'sender': {'sender_id': {'open_id': 'ou_1e008b6113ea4ad14b996777185afa03', 'union_id': 'on_ea4b591fb6656b4eba52b783c9d8de8d', 'user_id': '4efb984e'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-15 11:33:17,016 - _internal.py - line:187 - INFO - 127.0.0.1 - - [15/Dec/2023 11:33:17] "POST / HTTP/1.1" 200 -
+2023-12-15 11:34:51,383 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\server.py', reloading
+2023-12-15 11:34:51,451 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-15 11:34:51,985 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-15 11:34:51,988 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-18 10:40:34,681 - _internal.py - line:187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.248.50.4:3000
+2023-12-18 10:40:34,682 - _internal.py - line:187 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-18 10:40:34,683 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-18 10:40:35,101 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-18 10:40:35,105 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 09:36:31,603 - _internal.py - line:187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.248.50.4:3000
+2023-12-20 09:36:31,604 - _internal.py - line:187 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-20 09:36:31,605 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 09:36:32,029 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 09:36:32,032 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 09:37:15,456 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:37:15] "POST / HTTP/1.1" 200 -
+2023-12-20 09:37:16,920 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:37:16] "POST / HTTP/1.1" 200 -
+2023-12-20 09:37:25,176 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:37:25] "POST / HTTP/1.1" 200 -
+2023-12-20 09:37:38,817 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1703036257490', 'message_id': 'om_8fb96dc3455271aa33e2d404e1507475', 'message_type': 'text', 'update_time': '1703036257490'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 09:37:38,821 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:37:38] "POST / HTTP/1.1" 200 -
+2023-12-20 09:37:39,599 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-20 09:37:44,209 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:37:44] "POST / HTTP/1.1" 200 -
+2023-12-20 09:38:01,835 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:38:01] "POST / HTTP/1.1" 200 -
+2023-12-20 09:38:17,298 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:38:17] "POST / HTTP/1.1" 200 -
+2023-12-20 09:38:40,880 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"‚≥ıÙ"}', 'create_time': '1703036319605', 'message_id': 'om_cf5970b0b8678e67421268bcabf9a82b', 'message_type': 'text', 'update_time': '1703036319605'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 09:38:40,882 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:38:40] "POST / HTTP/1.1" 200 -
+2023-12-20 09:38:40,993 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ‚≥ıÙ
+2023-12-20 09:39:08,379 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:39:08] "POST / HTTP/1.1" 200 -
+2023-12-20 09:40:57,111 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"ø¥∞Â"}', 'create_time': '1703036455911', 'message_id': 'om_231efce018de1dee8289b5b0be383bf1', 'message_type': 'text', 'update_time': '1703036455911'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 09:40:57,113 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:40:57] "POST / HTTP/1.1" 200 -
+2023-12-20 09:40:57,216 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ø¥∞Â
+2023-12-20 09:44:01,030 - _internal.py - line:187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.248.50.4:3000
+2023-12-20 09:44:01,030 - _internal.py - line:187 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-20 09:44:01,032 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 09:44:02,042 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 09:44:02,048 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 09:44:09,671 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1703036648082', 'message_id': 'om_e19f17cf0f29ec365567cfaae8448437', 'message_type': 'text', 'update_time': '1703036648082'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 09:44:27,492 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1703036648082', 'message_id': 'om_e19f17cf0f29ec365567cfaae8448437', 'message_type': 'text', 'update_time': '1703036648082'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 09:44:42,989 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-20 09:44:52,119 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:44:52] "POST / HTTP/1.1" 200 -
+2023-12-20 09:45:03,643 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 09:45:03] "POST / HTTP/1.1" 200 -
+2023-12-20 09:49:31,763 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1703036648082', 'message_id': 'om_e19f17cf0f29ec365567cfaae8448437', 'message_type': 'text', 'update_time': '1703036648082'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:07:24,717 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-20 10:07:37,557 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:07:37] "POST / HTTP/1.1" 200 -
+2023-12-20 10:07:40,280 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:07:40] "POST / HTTP/1.1" 200 -
+2023-12-20 10:07:40,373 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-20 10:07:44,257 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:07:44] "POST / HTTP/1.1" 200 -
+2023-12-20 10:07:57,110 - _internal.py - line:187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.248.50.4:3000
+2023-12-20 10:07:57,110 - _internal.py - line:187 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-20 10:07:57,111 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:07:57,538 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:07:57,542 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:08:44,069 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:08:44] "POST / HTTP/1.1" 200 -
+2023-12-20 10:08:44,178 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\server.py', reloading
+2023-12-20 10:08:44,223 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:08:44,689 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:08:44,692 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:09:24,184 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\server.py', reloading
+2023-12-20 10:09:24,232 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:09:24,724 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:09:24,730 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:09:24,854 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:09:24] "POST / HTTP/1.1" 200 -
+2023-12-20 10:09:37,974 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:09:37] "POST / HTTP/1.1" 200 -
+2023-12-20 10:12:10,985 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\server.py', reloading
+2023-12-20 10:12:11,051 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:12:11,712 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:12:11,716 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:13:08,400 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"‚≥ıÙ"}', 'create_time': '1703038386607', 'message_id': 'om_3f924fc7389186a9ddb46969c3ac033c', 'message_type': 'text', 'update_time': '1703038386607'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:13:08,402 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:13:08] "POST / HTTP/1.1" 200 -
+2023-12-20 10:13:09,182 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ‚≥ıÙ
+2023-12-20 10:14:48,792 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\server.py', reloading
+2023-12-20 10:14:48,822 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:15:14,321 - _internal.py - line:187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.248.50.4:3000
+2023-12-20 10:15:14,322 - _internal.py - line:187 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-20 10:15:14,322 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:15:14,731 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:15:14,734 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:15:20,084 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1703038518408', 'message_id': 'om_29e626a2adaee3fa0aea80568c3b45c2', 'message_type': 'text', 'update_time': '1703038518408'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:15:20,086 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:15:20] "POST / HTTP/1.1" 200 -
+2023-12-20 10:15:20,819 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-20 10:15:24,710 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:15:24] "POST / HTTP/1.1" 200 -
+2023-12-20 10:15:24,809 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ‚≥ıÙ
+2023-12-20 10:15:28,509 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:15:28] "POST / HTTP/1.1" 200 -
+2023-12-20 10:15:28,614 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ø¥∞Â
+2023-12-20 10:15:55,317 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_9544f002a2e4159ee4d15e0484d6e897', 'chat_type': 'group', 'content': '{"text":"aaaaa"}', 'create_time': '1703038553669', 'message_id': 'om_1f0d67650c4922d8ba093eff1cf82568', 'message_type': 'text', 'update_time': '1703038553669'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:16:10,763 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_9544f002a2e4159ee4d15e0484d6e897', 'chat_type': 'group', 'content': '{"text":"aaaaa"}', 'create_time': '1703038553669', 'message_id': 'om_1f0d67650c4922d8ba093eff1cf82568', 'message_type': 'text', 'update_time': '1703038553669'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:20:14,555 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1703038490229', 'message_id': 'om_1e54cbd96ac9c6e17dfc3d031354b493', 'message_type': 'text', 'update_time': '1703038490229'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:20:14,557 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:20:14] "POST / HTTP/1.1" 200 -
+2023-12-20 10:20:14,860 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-20 10:21:12,286 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_9544f002a2e4159ee4d15e0484d6e897', 'chat_type': 'group', 'content': '{"text":"aaaaa"}', 'create_time': '1703038553669', 'message_id': 'om_1f0d67650c4922d8ba093eff1cf82568', 'message_type': 'text', 'update_time': '1703038553669'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:21:26,735 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\event.py', reloading
+2023-12-20 10:21:26,810 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:21:27,251 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:21:27,255 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:21:35,031 - server.py - line:92 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1703038893669', 'message_id': 'om_854f952228a8f74c879917a86cc16f0e', 'message_type': 'text', 'update_time': '1703038893669'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:21:35,033 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:21:35] "POST / HTTP/1.1" 200 -
+2023-12-20 10:21:35,951 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-20 10:22:20,877 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\event.py', reloading
+2023-12-20 10:22:20,927 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:22:21,343 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:22:21,346 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:22:49,638 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\event.py', reloading
+2023-12-20 10:22:49,687 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:22:50,110 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:22:50,113 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:23:03,916 - _internal.py - line:187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.248.50.4:3000
+2023-12-20 10:23:03,916 - _internal.py - line:187 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-20 10:23:03,918 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:23:04,334 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:23:04,338 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:26:12,844 - _internal.py - line:187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.248.50.4:3000
+2023-12-20 10:26:12,844 - _internal.py - line:187 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-20 10:26:12,845 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:26:13,265 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:26:13,269 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:26:22,592 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:26:22] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2023-12-20 10:27:04,953 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\server.py', reloading
+2023-12-20 10:27:05,000 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:27:05,429 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:27:05,433 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:27:07,297 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:07] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:13,190 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:13] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:14,264 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:14] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:27,899 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"‚≥ıÙ"}', 'create_time': '1703039246838', 'message_id': 'om_be58074bad1db060f05fb643a97c431c', 'message_type': 'text', 'update_time': '1703039246838'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:27:27,901 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:27] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:28,666 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ‚≥ıÙ
+2023-12-20 10:27:34,649 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1703039253128', 'message_id': 'om_d6963cc109293ab5c036778d66619bd7', 'message_type': 'text', 'update_time': '1703039253128'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:27:34,650 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:34] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:34,748 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-20 10:27:38,019 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:38] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:38,120 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ‚≥ıÙ
+2023-12-20 10:27:41,518 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:41] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:41,605 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ø¥∞Â
+2023-12-20 10:27:45,035 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:45] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:45,137 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ JIRA-VET
+2023-12-20 10:27:50,619 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"‚≥ıÙ"}', 'create_time': '1703038951740', 'message_id': 'om_655b30308a0d0fb60f6f2c77504fb32f', 'message_type': 'text', 'update_time': '1703038951740'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:27:50,621 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:50] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:50,724 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ‚≥ıÙ
+2023-12-20 10:27:53,245 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:27:53] "POST / HTTP/1.1" 200 -
+2023-12-20 10:27:53,361 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ »®œﬁ…Í«Î
+2023-12-20 10:28:09,387 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"‚≥ıÙ"}', 'create_time': '1703038971284', 'message_id': 'om_5aa801cba4a9fab3e123cab9f28dc30b', 'message_type': 'text', 'update_time': '1703038971284'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:28:09,388 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:28:09] "POST / HTTP/1.1" 200 -
+2023-12-20 10:28:09,494 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ‚≥ıÙ
+2023-12-20 10:28:27,884 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"‚≥ıÙ"}', 'create_time': '1703038990133', 'message_id': 'om_6483d0f78aceaf59d598e30b09b4a734', 'message_type': 'text', 'update_time': '1703038990133'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:28:27,885 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:28:27] "POST / HTTP/1.1" 200 -
+2023-12-20 10:28:27,977 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ‚≥ıÙ
+2023-12-20 10:28:50,407 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"ø¥∞Â"}', 'create_time': '1703039329218', 'message_id': 'om_7cb0534da7e96ac80dc61f9771c80949', 'message_type': 'text', 'update_time': '1703039329218'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:28:50,409 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:28:50] "POST / HTTP/1.1" 200 -
+2023-12-20 10:28:50,516 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ø¥∞Â
+2023-12-20 10:29:01,942 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\event.py', reloading
+2023-12-20 10:29:01,991 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:29:02,446 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:29:02,450 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:29:05,078 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"ø¥∞Â"}', 'create_time': '1703039343617', 'message_id': 'om_76302395674796379095f0edc88119d3', 'message_type': 'text', 'update_time': '1703039343617'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:29:05,080 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:29:05] "POST / HTTP/1.1" 200 -
+2023-12-20 10:29:05,888 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ø¥∞Â
+2023-12-20 10:29:42,003 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\event.py', reloading
+2023-12-20 10:29:42,053 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:29:42,494 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:29:42,497 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 10:29:44,113 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"ø¥∞Â"}', 'create_time': '1703039383050', 'message_id': 'om_c15807534833c9db2f7b4649fa37e5a7', 'message_type': 'text', 'update_time': '1703039383050'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:29:44,117 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:29:44] "POST / HTTP/1.1" 200 -
+2023-12-20 10:29:44,912 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ø¥∞Â
+2023-12-20 10:49:34,843 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"∞Ô÷˙"}', 'create_time': '1703036648082', 'message_id': 'om_e19f17cf0f29ec365567cfaae8448437', 'message_type': 'text', 'update_time': '1703036648082'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 10:49:34,845 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 10:49:34] "POST / HTTP/1.1" 200 -
+2023-12-20 10:49:35,025 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ∞Ô÷˙
+2023-12-20 10:50:14,291 - _internal.py - line:187 - INFO -  * Detected change in 'D:\\bot\\bot_feishu\\event.py', reloading
+2023-12-20 10:50:14,340 - _internal.py - line:187 - INFO -  * Restarting with stat
+2023-12-20 10:50:14,777 - _internal.py - line:187 - WARNING -  * Debugger is active!
+2023-12-20 10:50:14,781 - _internal.py - line:187 - INFO -  * Debugger PIN: 846-968-022
+2023-12-20 11:21:13,717 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_9544f002a2e4159ee4d15e0484d6e897', 'chat_type': 'group', 'content': '{"text":"aaaaa"}', 'create_time': '1703038553669', 'message_id': 'om_1f0d67650c4922d8ba093eff1cf82568', 'message_type': 'text', 'update_time': '1703038553669'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 11:21:13,719 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 11:21:13] "POST / HTTP/1.1" 200 -
+2023-12-20 13:16:09,321 - server.py - line:93 - INFO - {'message': {'chat_id': 'oc_51f963b280cd47616cb3101a46b07d9e', 'chat_type': 'p2p', 'content': '{"text":"÷ÿ√˚"}', 'create_time': '1703049367544', 'message_id': 'om_ef7f7331ddf33179d64a89a0e2fb96e4', 'message_type': 'text', 'update_time': '1703049367544'}, 'sender': {'sender_id': {'open_id': 'ou_ec0a99eb429f6a623cc9cbf490f623db', 'union_id': 'on_b60da87f9562296ccd2d56bbcb75f7af', 'user_id': '40d55f913d89b360ae00'}, 'sender_type': 'user', 'tenant_key': '2c0f571beb8f975e'}}
+2023-12-20 13:16:09,341 - _internal.py - line:187 - INFO - 127.0.0.1 - - [20/Dec/2023 13:16:09] "POST / HTTP/1.1" 200 -
+2023-12-20 13:16:10,201 - req_reset.py - line:230 - INFO - ’≈≥…÷«  —–∑¢”Îπ©”¶»∫◊È-÷«ƒ‹ø’º‰-EEº‹ππ-’˚≥µ≤‚ ‘≤ø-◊‘∂ØªØ≤‚ ‘ ÷ÿ√˚
